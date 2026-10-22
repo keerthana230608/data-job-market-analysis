@@ -1,5 +1,7 @@
 # Data Job Market Analysis
 
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/keerthana230608/data-job-market-analysis/blob/main/job%20analysis.ipynb)
+
 An exploratory analysis of 2023 job postings, comparing requested skills, remote-work share, and represented countries across Data Analyst, Senior Data Analyst, Data Scientist, and Senior Data Scientist roles.
 
 ## Questions
